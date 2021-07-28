@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "38687372702",
+    "project_id": "triggstar-investment",
+    "storage_bucket": "triggstar-investment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38687372702:android:c9ebfc76ea023e6937d28f",
+        "android_client_info": {
+          "package_name": "com.triggstarinvestment.cleaninq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38687372702-627e559esvbna53fr2n1pf6kaucr85jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uCYRsCXbI_G-EqPpRkEPzqq72nZSb1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38687372702-627e559esvbna53fr2n1pf6kaucr85jk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38687372702-f8rt07mpgni0lbmdl09mfpjd6klcl6be.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.triggstarinvestment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
